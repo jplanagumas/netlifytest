@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: https://github.com/jplanagumas/netlifytest.git
+  branch: master # Branch to update (master by default)
